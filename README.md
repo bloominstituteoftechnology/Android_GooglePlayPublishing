@@ -5,4 +5,4 @@ This is a simple one. Choose your favorite app you have worked on, create a stor
 
 ## App Test Opt In Link
 
-Waiting for the link once my app is approved.  Will update this to reflect that when that happens.
+https://play.google.com/apps/internaltest/4697335427328951204
